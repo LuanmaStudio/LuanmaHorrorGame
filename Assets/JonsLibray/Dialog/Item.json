@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Player",
+    "content": "<color=#66ccff>阿姨</color>我不想努力了。",
+    "duration": 100
+  },
+  {
+    "id": 1,
+    "name": "Ch1",
+    "content": "想清楚了?",
+    "duration": 100
+  },
+  {
+    "id": 2,
+    "name": "Player",
+    "content": "嗯,老板天天压迫加班,还不给算加班费,我真的太累了",
+    "duration": 100
+  },
+  {
+    "id": 3,
+    "name": "Ch2",
+    "content": "那好,明天来找阿姨,带你去提车,吃饭.",
+    "duration": 100
+  }
+]

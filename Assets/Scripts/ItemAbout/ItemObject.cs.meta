@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b06385c4e468a1e47a424df99e86b756
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textAsset: {instanceID: 0}
+  - Textlable: {fileID: 3717997701804655999, guid: 868dd2177d5fe944b9e41c357e1c390b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
